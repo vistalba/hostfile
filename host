@@ -1,0 +1,6 @@
+# Custom Domains in addition to xxx
+
+0.0.0.0 storage.cpstatic.ch
+0.0.0.0 trf.greatviews.de
+0.0.0.0 track.adform.net
+0.0.0.0 clevercircles.ch
