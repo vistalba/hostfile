@@ -1,6 +1,7 @@
 # Custom Domains in addition to https://github.com/StevenBlack/hosts
 
 0.0.0.0 storage.cpstatic.ch
+0.0.0.0 cpc.cpstatic.ch
 0.0.0.0 trf.greatviews.de
 0.0.0.0 track.adform.net
 0.0.0.0 clevercircles.ch
